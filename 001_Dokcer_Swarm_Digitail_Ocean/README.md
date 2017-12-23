@@ -1,6 +1,6 @@
 # PoC For Docker-Swarm In Digital Ocean
 
-To provisioning Docker-Machine into Digital Ocean you can 
+To provision Docker-Machine into Digital Ocean you can 
 
 ```
 docker-machine create --driver digitalocean --digitalocean-access-token=<access_token> cgondm
